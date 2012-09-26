@@ -41,3 +41,7 @@ a:hover {
   font-size: 10px;
   float: right;
 }
+
+.inset {
+  margin-left: 2em;
+}
