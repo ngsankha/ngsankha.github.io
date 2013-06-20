@@ -1,47 +1,16 @@
-body {
-  background-color: #000;
-  padding-top: 30px;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 14px;
-  line-height: 1.5;
-  color: rgb(234, 234, 234);
-}
-
-h3 {
-  font-size: 18px;
-}
-
-.gray {
-    color: rgb(142, 142, 142);
-}
-
-.heads {
-  font-weight: normal;
-  letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-}
-
-.green {
-  color: rgb(181, 232, 83);
-}
-
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-#copy {
-  font-size: 10px;
-  float: right;
-}
-
-.inset {
-  margin-left: 2em;
+* { padding: 0; margin: 0; }
+body { background-color: #333; font-family: 'Lato', Helvetica; color: #fff; }
+p { font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
+a { color: #fff; font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.3); }
+#monogram a { border-bottom:none; }
+a:hover { color: #dfc; border-bottom: 1px solid rgba(255,255,255,1); }
+#monogram { width: 670px; font-weight: bold; font-size:90px; padding: 50px 0 0 0; margin: 0 auto 0 70px; }
+.subt { padding: 70px 0 0 10px; font-size: 20px; font-weight: normal; }
+#about { background: rgba(50, 50, 50, 0.7); width: 400px; padding: 0 10px 1px 10px; margin: -405px 50px 0 auto !important; }
+.shift { padding-right: 10px; vertical-align: middle; }
+@media (max-width: 940px) {
+    #monogram { font-size: 35px; position: relative; width: auto; padding: 20px; margin: 0; }
+    .subt { padding: 20px 0 0 0; font-size: 20px; font-weight: normal; }
+	#about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
+	background-image { opacity: 0.2; }
 }
