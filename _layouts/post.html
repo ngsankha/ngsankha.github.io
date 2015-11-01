@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post">
   <h2 class="post-header">{{ page.title }}</h2>
-  <p class="post-meta">{{ page.date | date: site.date_format }}</p>
+  <p class="post-meta">{{ page.date | date: '%B %d, %Y' }}</p>
   {{ content }}
   {% if site.disqus_shortname %}
     <div id="disqus_thread"></div>
