@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/sankha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sankhs.com
+  * I am sankha (https://keybase.io/sankha) on keybase.
+  * I have a public key with fingerprint 8B67 5492 3C14 4F02 B974  BA0B 41D6 FE40 F324 AAF6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ac622eaa4bc342bc595c207d101057d5e60cb5b76f602c13e17dece0cf3203010a",
+            "fingerprint": "8b6754923c144f02b974ba0b41d6fe40f324aaf6",
+            "host": "keybase.io",
+            "key_id": "41d6fe40f324aaf6",
+            "kid": "0101ac622eaa4bc342bc595c207d101057d5e60cb5b76f602c13e17dece0cf3203010a",
+            "uid": "823665824651cde08837dc76e5e55d19",
+            "username": "sankha"
+        },
+        "service": {
+            "hostname": "sankhs.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451237389,
+    "expire_in": 157680000,
+    "prev": "86fd8207a649dda135d23d0c1dff6c6f0b217519301c27a94da15070bf260b30",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJfSBRBHD7PsjSCIMpCqNjqoVKbnd2ZvT0IIaKelAr6R9I1OzPrberu
+ubdnmgURQQ9HUEiWPUT/g8gSVLSzyOoeCjtLJCqyrJdCI5T+gKVIs1LQQ4/NyzC/
+3/d9830/fum52YG8rODdJaeuFhzJz+q935gIbD+8bG6DZDisXgo3SJV8+uJVjMe9
+SKXFpLAEZCATiiHkhKgGVVRoUKQjCoHGRAsgjSGOATWQoWETA0hlhcsa45QDaioQ
+KAJEpELJtOwK7sZcy/aEbMjAGlJ1qFBZVU0ADV1TDQIMVWbY5CoQTJUQEwti1In7
+DGHOIHFebDmiJh6RaXv/wP9n34lpuRBUMEYhqGIkU8ZBKKRojGqYI44Qk3UfGOeu
+Taq5QMeJXRkl0qFCSdRqLcr9sfo5/u7Hi6lTLXgx1/Ec6lSJetTzYvGwz/PqYz5w
+PzcivyUihmUzMUPBqOVu3HJsKSwLJPUsX1NWkQwVTQnphRKvi1kuj1g+Amk4BMTx
+/+G1fhJsspCYAsGqzhiRFcSgwgCVmWliik1gQFlDsi7yU6gRXRUYBDRgmBADQwGS
+H6rGdqSwKmySCj+OVWETL+Fy6dCDnvIZgay8QM7MoL9bgbzceX82Lvlm1kROkqzZ
+fDnndXJybefEZq1lwVQmMljXd7R46Z7SRB4qKbv98+AX9cLL13N6Dg70F27ftmT+
+2YV13+uGdwUPjEVnJx9Phbcm1wzubsy0Vo6NXEq1Ba/Up9DpfR++tmRWvW9pOpEZ
+f5Wtp91o+ln/nfTb6MbR1I1PsGNgd/OF9qHJjqbmA5lse+aPN92R1lsrNr2tXtjw
+QguuLq2q+NS+495gdtGVny/zPzcWlA2lrh9vn6w/9+TR0N15+cXH1nVVFz3sHL7W
+vXPjfuotbmt+kttX0vu0/MxYOuF+PLx+y0iftKjkW++KHStPLz/W2XWr58N5o8w6
+WVozGut7B/duuMifPh8/c/MXL7RHdg==
+=HZZQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sankha
+
+==================================================================
+
