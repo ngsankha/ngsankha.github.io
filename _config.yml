@@ -11,21 +11,3 @@ markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-
-projects:
-  - name: "Watchman.js"
-    description: "Facebook's file watching service with a powerful expression parser rewritten in Node.js."
-    url: 'http://sankhs.com/watchman.js'
-    github_url: 'https://github.com/sankha93/watchman.js'
-  - name: "Codejudge"
-    description: "An online judge that you can use to automate coding competitions. Featuring a super-responsive design, it can be easily setup to run from your system. The judge is multi-threaded and supports multiple languages."
-    url: 'http://sankhs.com/codejudge'
-    github_url: 'https://github.com/sankha93/codejudge'
-  - name: "Panther"
-    description: "A cross-platform audio/video file converter, powered by ffmpeg. It is super-fast, has been reviewed across multiple sites. It can also be used to reduce the size of music files, joining and splitting files. It features a JavaScript engine to provide scripting facilities."
-    url: "http://sankhs.com/Panther"
-    github_url: "https://github.com/sankha93/Panther"
-  - name: "WeTunes"
-    description: "A social music player for Android, with its own social network. Features include sending friend requests, music updates from friends, suggesting songs. It has been discontinued."
-    url: "#"
-    github_url: "https://github.com/sankha93/wetunes-android"
