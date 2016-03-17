@@ -8,3 +8,7 @@ disqus_shortname:
 
 # Build settings
 permalink:    pretty
+
+gems:
+  - jekyll-gist
+
