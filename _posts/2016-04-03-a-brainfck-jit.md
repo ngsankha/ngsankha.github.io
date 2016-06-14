@@ -72,7 +72,7 @@ Certain references that really helped are:
 
 ---
 
-### Update:
+### _Update:_ Optimizing JIT
 
 I made a [few optimizations](https://github.com/sankha93/bf-jit/commit/26acc8b07bebf58e17b1674221dd8ebdb6f3049a) to fuse the multiple increment/decrement and pointer movement operations into a single one. The benchmarks from my JIT is now much closer to that of the optimized C version. The latest benchmark results are:
 
