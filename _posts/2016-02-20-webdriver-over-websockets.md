@@ -61,7 +61,7 @@ The source code for the same can be found in [ws-webdriver](https://github.com/s
 
 ### Benchmarks
 
-To see how much difference would Websockets make over traditional HTTP I decided to benchmark a test suite. I forked [WebdriverIO](http://webdriver.io) client library and patched it to support the Websockets protocol for my proxy. The [fork](https://github.com/sankha93/webdriverio) can be found on my GitHub. Since the real difference shows when tests are run over the internet, I created a [ngrok](https://ngrok.com/) tunnel to my machine. Then I run the WebdriverIO test suite with the remote URL of the ngrok tunnel. There was a remarkable difference in the test running duration.
+To see how much difference would Websockets make over traditional HTTP I decided to benchmark a test suite. I forked [WebdriverIO](http://webdriver.io) client library and patched it to support the Websockets protocol for my proxy. The [fork](https://github.com/sankha93/webdriverio) can be found on my GitHub. Since the real difference shows when tests are run over the internet, I created a [ngrok](https://ngrok.com/) tunnel to my machine. Then I ran the WebdriverIO test suite with the remote URL of the ngrok tunnel. There was a remarkable difference in the test running duration.
 
 {% highlight text %}
 Webdriver HTTP requests:         9 min 31.68 sec
