@@ -5,7 +5,7 @@ title: Take care, it’s Floating Point Arithmetic
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-_Originally published on my [old blog](https://thelimbeck.wordpress.com/2013/04/12/take-care-its-floating-point-arithmetic/) in April 2013, this post made it to the front page of Hacker News. I received very [insightful comments](https://news.ycombinator.com/item?id=5538365) there, and updated the post to fix a mistake regarding the commutative property._
+##### _Originally published on my [old blog](https://thelimbeck.wordpress.com/2013/04/12/take-care-its-floating-point-arithmetic/) in April 2013, this post made it to the front page of Hacker News. I received very [insightful comments](https://news.ycombinator.com/item?id=5538365) there, and updated the post to fix a mistake regarding the commutative property._
 
 Yesterday night, I was just idling on IRC and happened to come by an interesting discussion that was taking place there. The original issue was that doing Taylor approximation used to give identity for very small numbers, which gradually turned out to be an enlightening discussion. Thanks to Boris Zbarsky for clearing my doubts on this topic.
 

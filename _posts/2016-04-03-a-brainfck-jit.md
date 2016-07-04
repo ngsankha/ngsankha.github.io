@@ -3,7 +3,7 @@ layout: post
 title: A Brainf*ck JIT
 ---
 
-_This article was originally published on my [previous blog](https://thelimbeck.wordpress.com/2013/12/31/a-brainfck-jit/) in December 2013._
+##### _This article was originally published on my [previous blog](https://thelimbeck.wordpress.com/2013/12/31/a-brainfck-jit/) in December 2013._
 
 I recently came across an [article](http://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html) by Josh Haberman on the web which demonstrates how to make simple fun JITs, with the help of LuaJIT. I am still a beginner in the field of compilers and JITs. So I tried to implement a [Brainf*ck](http://en.wikipedia.org/wiki/Brainfuck) JIT with the help of [GNU LibJIT](http://www.gnu.org/software/libjit/) library. It proved to be a really entertaining exercise. The results are up [here](https://github.com/sankha93/bf-jit) on Github.
 
