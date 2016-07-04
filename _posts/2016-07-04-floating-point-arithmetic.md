@@ -30,4 +30,4 @@ You would say almost $$1$$ (even I thought so). But to the computer that is exac
 
 But if you start off by adding with the smaller guys, they can actually accumulate and give the correct result. So if we add $$2^{-25}$$, $$2^{25}$$ times and then add $$1$$, we would get $$2$$, quite opposite to the previous result.
 
-Floating point arithmetic is not arithmetic we learnt in school. It's not ~~commutative~~ nor associative nor distributive. It also implies that just because these properties are not satisfied, compilers cannot optimize floating point operations either. The same reason why you have `-ffast-math` to tell gcc just to do your floating point operations fast and not care about the correct answer at all.
+Floating point arithmetic is not arithmetic we learnt in school. It's not <s>commutative</s> nor associative nor distributive. It also implies that just because these properties are not satisfied, compilers cannot optimize floating point operations either. The same reason why you have `-ffast-math` to tell gcc just to do your floating point operations fast and not care about the correct answer at all.
