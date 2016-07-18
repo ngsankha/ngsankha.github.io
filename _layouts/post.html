@@ -5,6 +5,33 @@ layout: default
   <h2 class="post-header">{{ page.title }}</h2>
   <p class="post-meta">{{ page.date | date: '%B %d, %Y' }}</p>
   {{ content }}
+
+  <hr>
+
+  <div class="sharing">
+    <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ page.title }}" data-size="default">
+      Tweet
+    </a>
+  </div>
+  <script>
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+  </script>
+
   {% if site.disqus_shortname %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
