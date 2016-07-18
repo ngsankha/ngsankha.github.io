@@ -9,7 +9,7 @@ I recently came across an [article](http://blog.reverberate.org/2012/12/hello-ji
 
 The fun is in the part where we directly emit the machine instructions while reading source. The JIT doesn’t make any optimizations to the code, it just directly converts to the machine instructions.
 
-[Wikipedia](http://en.wikipedia.org/wiki/Brainfuck#Commands) tells us what each of the BF instructions correspond to in C. This makes it easy to write the corresponding instructions for the JIT. The entire BF program is defined as single function that when once compiled will run. I’ll take up sections of the code from [`bf-jit.c`](https://github.com/sankha93/bf-jit/blob/5bd1fe1405eee8b804316b372173b0c6489fbf75/src/bf-jit.c#L47) and lookup what they do:
+[Wikipedia](http://en.wikipedia.org/wiki/Brainfuck#Commands) tells us what each of the BF instructions correspond to in C. This makes it easy to write the corresponding instructions for the JIT. The entire BF program is defined as single function that when once compiled will run. I’ll take up sections of the code from [`bf-jit.c`](https://github.com/sankha93/bf-jit/blob/5bd1fe1405eee8b804316b372173b0c6489fbf75/src/bf-jit.c#L47) and write what they do:
 
 {% highlight c %}
 case '>':
@@ -69,8 +69,6 @@ Certain references that really helped are:
 * [http://pwparchive.wordpress.com/2013/01/20/a-jit-compiler-for-brainfck/](http://pwparchive.wordpress.com/2013/01/20/a-jit-compiler-for-brainfck/)
 * [http://www.gnu.org/software/dotgnu/libjit-doc/libjit.html](http://www.gnu.org/software/dotgnu/libjit-doc/libjit.html)
 * [http://eli.thegreenplace.net/2013/10/17/getting-started-with-libjit-part-1/](http://eli.thegreenplace.net/2013/10/17/getting-started-with-libjit-part-1/)
-
----
 
 ### _Update:_ Optimizing JIT
 
