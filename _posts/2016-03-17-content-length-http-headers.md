@@ -23,3 +23,5 @@ The official docs of Node.js for the HTTP module, shows [usage of string length]
 A reduced test-case to demonstrate how it can lead to wrong data being received and errors happening is given below.
 
 {% gist sankha93/2fb81c491a5006e45530 %}
+
+The above sample sends the string `Haha🔫` but due to wrong `Content-Length` headers the server ends up receiving a garbage value.
