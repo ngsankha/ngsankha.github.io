@@ -5,7 +5,7 @@ title: "HyperLogLog: Counting things efficiently"
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Today at work I came across an interesting problem - how to count the number of items in a set efficiently. To understand why this is an important thing let me first describe a problem. Say for example you have an application that is that is getting a lot of search queries. At any point in time you would like to know what is number of unique search queries that were performed till now. Since this is a live production application the number of actual searches could be in the range of millions to billions.
+Today at work I came across an interesting problem - how to count the number of items in a set efficiently. To understand why this is an important thing let me first describe a problem. Say for example you have an application that is getting a lot of search queries. At any point in time you would like to know what is number of unique search queries that were performed till now. Since this is a live production application the number of actual searches could be in the range of millions to billions.
 
 The traditional way to tackle this is to keep the data in a set and count the number of elements in the set. But we have a problem if we keep so many keys in a set in memory - we will be using memory in the order of elements that we have stored in our set. That is wasting a whole lot of memory.
 
