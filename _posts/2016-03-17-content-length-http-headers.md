@@ -22,6 +22,38 @@ The official docs of Node.js for the HTTP module, shows [usage of string length]
 
 A reduced test-case to demonstrate how it can lead to wrong data being received and errors happening is given below.
 
-{% gist sankha93/2fb81c491a5006e45530 %}
+{% highlight javascript %}
+var http = require('http');
+
+var TEST_STRING = 'Haha🔫';
+
+var server = http.createServer(function(req, res) {
+  var data = '';
+  req.on('data', function(chunk) {
+    data += chunk;
+  });
+  req.on('end', function() {
+    console.log('Recieved string:', data);
+    console.log('Actual String:', TEST_STRING);
+    res.end();
+  });
+});
+
+server.listen(3001, 'localhost', function() {
+  var req = http.request({
+    port: 3001,
+    headers: {
+      'Content-Length': TEST_STRING.length // Should use Buffer.byteLength here
+    }
+  }, function(res) {
+    server.close();
+  });
+  req.on('error', function(e) {
+    console.log('Problem with request:', e.message);
+    server.close();
+  });
+  req.end(TEST_STRING);
+});
+{% endhighlight %}
 
 The above sample sends the string `Haha🔫` but due to wrong `Content-Length` headers the server ends up receiving a garbage value.
