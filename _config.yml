@@ -10,5 +10,5 @@ disqus_shortname:
 permalink:    pretty
 
 gems:
-  - jekyll-gist
+  - jekyll-feed
 
