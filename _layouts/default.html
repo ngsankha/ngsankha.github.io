@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Sankha Narayan Guria">
-  <meta name="description" content="{{ page.content | strip_html | truncatewords:50 }}">
+  {% if page.title != "Blog" %}<meta name="description" content="{{ page.content | strip_html | truncatewords:50 }}">{% endif %}
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
   <link rel="me" href="https://twitter.com/sankha93">
