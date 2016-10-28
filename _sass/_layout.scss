@@ -45,10 +45,16 @@ main {
     padding: 0;
     > li {
         line-height: 1.75;
+        position: relative;
+        padding-right: 100px;
         span {
             color: $meta-color;
             float: right;
             font-size: $small-font-size;
+            position: absolute;
+            right: 0px;
+            top: 50%;
+            transform: translateY(-50%);
         }
         a {
             color: $text-color;
