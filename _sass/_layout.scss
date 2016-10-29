@@ -44,9 +44,10 @@ main {
     list-style: none;
     padding: 0;
     > li {
-        line-height: 1.75;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
         position: relative;
-        padding-right: 100px;
+        padding-right: 120px;
         span {
             color: $meta-color;
             float: right;
