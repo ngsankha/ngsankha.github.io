@@ -14,28 +14,73 @@
   <style type="text/css">
     body {
       background-color: #fdfdfd;
-      background-image: url(bg.svg);
+      background-image: url(images/bg.svg);
       background-repeat: no-repeat;
       background-position: center top;
+    }
+
+    .img-container img {
+      float: left;
+      width: 70%;
+    }
+
+    .img-container:after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    .img-container img:first-child {
+      margin-left: -200px;
+    }
+
+    .img-container img:last-child {
+      margin-right: -200px;
+      float: right;
+    }
+
+    .img-container {
+      text-align: center;
+    }
+
+    .img-container img:hover {
+      outline: 1px solid #666;
     }
   </style>
 </head>
 <body>
   <div class="container" style="margin-top: 10%">
     <h1>sankha narayan guria</h1>
-    I am currently working as a Software Engineer at BrowserStack, building platforms for developers that help them build better websites.
+    <p>I like to think of awesome ideas and build them. I have deep technology understanding of how things works and try to use it to build innovative solutions to hard problems. A lot of work that I have done revolves around the intersection in the domains of structure and dynamics of complex networks, the web and healthcare.</p>
+    <p>I am currently working as a Software Engineer at BrowserStack, building infrastructure for developers that help them build a better web.</p>
     <div class="row" style="margin-top: 5%">
-        <h5>Characterization of Schizophrenic subjects using properties of Brain Functional Networks</h5>
-        <hr>
-        <h5>Bhaag: Training & Motion Tracking App</h5>
-        <hr>
-        <h5>Biosense: Human Posture Detection Kit</h5>
-        <hr>
-        <h5>Spread of Information & Correlation of Events on a Social Network</h5>
-        <hr>
-        <h5>Solar Panel Efficiency Monitoring System</h5>
-        <hr>
-        <h5>Stock Price Estimation using Volatility as a Stochastic Process</h5>
+      <h5>Characterization of Schizophrenic subjects using properties of Brain Functional Networks</h5>
+      <p>Current machinery for neuroimaging mostly generate temporal time series data. Our approach took the complex networks based approach to figure out if there lies any change in structure & behaviour of the voxels of the brain between a schizophrenic patient and a normal person. We constructed a graph theoretical model of the brain from fMRI scan's data and trained machine learning algorithms (SVMs & Decision trees) to predict whether a person is probably schizophrenic or not.</p>
+      <p>I did this work as a part of my Bachelor's thesis project with <a href="http://faculty.iiitd.ac.in/~bagler/">Dr. Ganesh Bagler</a>, and it was nominated for the best project award in the entire class of 2015. We developed a simple web based tool that allows an end user to directly test the machine learning models from the UI.</p>
+      <div class="img-container">
+        <img src="images/screen1.png" width="70%" height="70%">
+        <img src="images/screen2.png" width="70%" height="70%">
+      </div>
+      <hr>
+      <h5>Bhaag: Training & Motion Tracking App</h5>
+      <img src="images/bhaag.png" width="30%" style="float: left">
+      <p style="width: 65%; float: right">Developed an app for the Windows mobile platform leveraging the phone sensors - GPS, accelerometer, etc. to track motion of arms or legs. Uses included strides calculation during running or measuring the accuracy of movements during any other sports training session.</p>
+      <div style="clear: both"></div>
+      <hr>
+      <h5>Biosense: Human Posture Detection Kit</h5>
+      <div style="float: left; margin-left: -100px;">
+      <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">First prototype working, this stuff tells me when my hand posture is wrong. <a href="https://twitter.com/hashtag/di2013?src=hash">#di2013</a> <a href="http://t.co/nfUKZM0e">pic.twitter.com/nfUKZM0e</a></p>&mdash; Sankha Narayan Guria (@sankha93) <a href="https://twitter.com/sankha93/status/294022789562761218">January 23, 2013</a></blockquote>
+      </div>
+      <div style="float: right; margin-right: -100px">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Enzxtx5Smb0" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div style="clear: both"></div>
+      <hr>
+      <h5>Spread of Information & Correlation of Events on a Social Network</h5>
+      <hr>
+      <h5>Solar Panel Efficiency Monitoring System</h5>
+      <hr>
+      <h5>Stock Price Estimation using Volatility as a Stochastic Process</h5>
     </div>
   </div>
 
@@ -47,5 +92,6 @@
     ga('create', 'UA-42948095-1', 'auto');
     ga('send', 'pageview');
   </script>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
