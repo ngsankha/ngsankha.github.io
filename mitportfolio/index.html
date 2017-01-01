@@ -18,34 +18,6 @@
       background-repeat: no-repeat;
       background-position: center top;
     }
-
-    .img-container img {
-      float: left;
-      width: 70%;
-    }
-
-    .img-container:after {
-      content: "";
-      clear: both;
-      display: table;
-    }
-
-    .img-container img:first-child {
-      margin-left: -200px;
-    }
-
-    .img-container img:last-child {
-      margin-right: -200px;
-      float: right;
-    }
-
-    .img-container {
-      text-align: center;
-    }
-
-    .img-container img:hover {
-      outline: 1px solid #666;
-    }
   </style>
 </head>
 <body>
@@ -53,35 +25,64 @@
     <h1>sankha narayan guria</h1>
     <p>I like to think of awesome ideas and build them. I have deep technology understanding of how things works and try to use it to build innovative solutions to hard problems. A lot of work that I have done revolves around the intersection in the domains of structure and dynamics of complex networks, the web and healthcare.</p>
     <p>I am currently working as a Software Engineer at BrowserStack, building infrastructure for developers that help them build a better web.</p>
+
     <div class="row" style="margin-top: 5%">
       <h5>Characterization of Schizophrenic subjects using properties of Brain Functional Networks</h5>
       <p>Current machinery for neuroimaging mostly generate temporal time series data. Our approach took the complex networks based approach to figure out if there lies any change in structure & behaviour of the voxels of the brain between a schizophrenic patient and a normal person. We constructed a graph theoretical model of the brain from fMRI scan's data and trained machine learning algorithms (SVMs & Decision trees) to predict whether a person is probably schizophrenic or not.</p>
-      <p>I did this work as a part of my Bachelor's thesis project with <a href="http://faculty.iiitd.ac.in/~bagler/">Dr. Ganesh Bagler</a>, and it was nominated for the best project award in the entire class of 2015. We developed a simple web based tool that allows an end user to directly test the machine learning models from the UI.</p>
-      <div class="img-container">
-        <img src="images/screen1.png" width="70%" height="70%">
-        <img src="images/screen2.png" width="70%" height="70%">
-      </div>
-      <hr>
+      <p>I did this work as a part of my Bachelor's thesis project with <a href="http://faculty.iiitd.ac.in/~bagler/">Dr. Ganesh Bagler</a>, and it was nominated for the best project award in the entire class of 2015. A simple web based UI was also developed that allows an end user to directly test the machine learning models from the UI.</p>
+    </div>
+    <div class="row">
+      <img src="images/screen1.png" class="six columns">
+      <img src="images/screen2.png" class="six columns">
+    </div>
+
+    <hr>
+
+    <div class="row">
       <h5>Bhaag: Training & Motion Tracking App</h5>
-      <img src="images/bhaag.png" width="30%" style="float: left">
-      <p style="width: 65%; float: right">Developed an app for the Windows mobile platform leveraging the phone sensors - GPS, accelerometer, etc. to track motion of arms or legs. Uses included strides calculation during running or measuring the accuracy of movements during any other sports training session.</p>
-      <div style="clear: both"></div>
-      <hr>
+    </div>
+    <div class="row">
+      <img src="images/bhaag.png" class="four columns">
+      <div class="eight columns">
+      <p>Bhaag was a Windows phone app developed during the Microsoft Code.Fun.Do Hackathon 2015 at IIT Jodhpur. The idea was to imagine the phone as a digital augmentation of the human body itself.</p>
+      <p>The app leverages sensors in the phone like - GPS, accelerometer and gyroscope to track the motion and direction of arms or legs as a time series. All these parameters represented as a time series gives us very accurate measure of where the person was and the accuracy with which the person was doing the physical activity or sports training session.</p>
+      <p>We had developed location tracking and stride calculation for running activities. Later we implemented a prototype of <em>permutation distributed clustering</em> method to measure similarities between two time series. We envisioned this as a way to allow trainers to teach students specific moves perfectly. Imagine a cricket or table tennis coach recording his way of playing a shot, and then transferring the data to your smartphone so that you can train and be measured on how closely you mimic your coach's way of playing the shot.</p>
+      <p>This app won this second position in the hackathon.</p>
+      <p><a href="https://github.com/sankha93/bhaag">GitHub</a></p>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
       <h5>Biosense: Human Posture Detection Kit</h5>
-      <div style="float: left; margin-left: -100px;">
+    </div>
+    <div class="row">
+      <p>Biosense was the project we worked on during the MIT Media Labs Design Innovation Workshop 2013 in Bangalore, India.</p>
+      <p>During the field trip, we spoke to a number of manual labour workers like carpenters - and one common theme we noticed was during the course of the day they could never understand that they were overworking and night they used to suffer from body aches at wrists and arms. We decided to solve this problem during the course of the workshop.</p>
+      <p>We developed gloves that tracks the strain build-up on muscles due to recurring strenuous activity on the wrists and provides haptic feedback when it crosses permissible limits. This encourages the person to take short breaks during working hours that ultimately do not lead to muscle pain post-work hours. Our algorithm supported exponential backoff to handle resting periods between two working spells.</p>
+      <p>We made a lot of design trade-offs to get our entire design inside a glove. We used flex sensor to calculate the bend of the hand, which fed the data over wires into an Arduino kept outside the glove. The Arduino computed the data and sent the haptic feedback into gloves which used to vibrate to let the wearer know they were crossing the limits for permissible activity. Pressure sensors being way too bulky, we designed our own pressure sensors with sponge and alumninium foils that can be fit inside the gloves to figure out the pressure points.</p>
+      <p><a href="https://github.com/sankha93/biosense">GitHub</a> | <a href="https://thelimbeck.wordpress.com/2013/03/07/back-to-bangalore/">Blog Post</a></p>
+    </div>
+    <div class="row">
+      <div class="four columns">
       <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">First prototype working, this stuff tells me when my hand posture is wrong. <a href="https://twitter.com/hashtag/di2013?src=hash">#di2013</a> <a href="http://t.co/nfUKZM0e">pic.twitter.com/nfUKZM0e</a></p>&mdash; Sankha Narayan Guria (@sankha93) <a href="https://twitter.com/sankha93/status/294022789562761218">January 23, 2013</a></blockquote>
       </div>
-      <div style="float: right; margin-right: -100px">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Enzxtx5Smb0" frameborder="0" allowfullscreen></iframe>
+      <div class="eight columns" style="margin-top: 10px">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Enzxtx5Smb0" frameborder="0" allowfullscreen></iframe>
       </div>
-      <div style="clear: both"></div>
-      <hr>
-      <h5>Spread of Information & Correlation of Events on a Social Network</h5>
-      <hr>
-      <h5>Solar Panel Efficiency Monitoring System</h5>
-      <hr>
-      <h5>Stock Price Estimation using Volatility as a Stochastic Process</h5>
     </div>
+
+    <hr>
+
+    <div class="row">
+      <h5>Spread of Information & Correlation of Events on a Social Network</h5>
+    </div>
+
+    <hr>
+    <h5>Solar Panel Efficiency Monitoring System</h5>
+    <hr>
+    <h5>Stock Price Estimation using Volatility as a Stochastic Process</h5>
   </div>
 
   <script>
