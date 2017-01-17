@@ -3,7 +3,7 @@ layout: post
 title: Specializing Bash Programs
 ---
 
-BrowserStack being an infrastructure heavy company, we need to execute a lot of commands on our systems to get things done. Shell scripts are the easiest way to get this done until at one point you realize that bash is not really a language that you would want to debug your issues in.
+BrowserStack being a company that gives you Windows/Mac and real Android/iPhones remote access for web testing, we need to execute a lot of commands on our systems to get things done. Shell scripts are the easiest way to get this done until at one point you realize that bash is not really a language that you would want to debug your issues in.
 
 Let us imagine a simple scenario:
 
