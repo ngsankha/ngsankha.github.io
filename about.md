@@ -13,4 +13,4 @@ I write (mostly) open-source code and used to contribute to Mozilla Firefox. Man
 <i class="about-icon fa fa-envelope"></i> [ngsankha@gmail.com](mailto:ngsankha@gmail.com)<br>
 <i class="about-icon fa fa-twitter"></i> [ngsankha](https://twitter.com/ngsankha)<br>
 <i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
-<i class="about-icon fa fa-rss"></i> [Subscribe via RSS](/feed.xml)
+<i class="about-icon fa fa-rss"></i> [Subscribe](/feed.xml)
