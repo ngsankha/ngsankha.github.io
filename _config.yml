@@ -9,5 +9,5 @@ disqus_shortname: "sankhs"
 # Build settings
 permalink:    pretty
 
-gems:
+plugins:
   - jekyll-feed
