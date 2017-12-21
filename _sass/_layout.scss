@@ -19,6 +19,9 @@ main {
         > a {
             color: $text-color;
             text-decoration: none;
+            &:hover {
+                border-bottom: 1px $color-black dashed;
+            }
         }
     }
     .site-nav {
@@ -26,6 +29,7 @@ main {
             color: $text-color;
             &:hover {
                 text-decoration: none;
+                border-bottom: 1px $color-black dashed;
             }
             &.active {
                 border-bottom: 2px solid #666;
@@ -33,16 +37,6 @@ main {
             + a {
                 margin-left: 1rem;
             }
-        }
-    }
-}
-.project {
-    > h2 > a {
-        color: $text-color;
-        text-decoration: none;
-
-        &:hover {
-            color: $text-color2;
         }
     }
 }
