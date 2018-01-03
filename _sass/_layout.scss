@@ -81,6 +81,35 @@ main {
         font-size: $small-font-size;
     }
 }
+.img_row {
+    height: $img-height;
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.col {
+    width: 100%;
+    height: 100%;
+    float: left;
+    object-fit: cover;
+    box-sizing:border-box;
+    padding: $img-spacing;
+}
+.one-third {
+    width: 33.33%;
+}
+.two-third {
+    width: 66.66%;
+}
+.full-third {
+    width: 100%;
+}
+.one-half {
+    width: 50%;
+}
+.full-half {
+    width: 100%;
+}
 @media screen and (max-width: 48rem) {
     .site-header {
         .site-title,
