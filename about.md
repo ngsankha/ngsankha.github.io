@@ -8,7 +8,7 @@ Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) a
 
 Previously, I spent a couple of years at [BrowserStack](https://www.browserstack.com) writing systems software for offering real mobile devices on the cloud and scalable distributed web service backends. Prior to that, I graduated with my Bachelors degree from Indian Institute of Technology Jodhpur. I worked with [Prof. Peter Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann/) for a summer during my undergrad on [Transparent Object Proxies for JavaScript](http://drops.dagstuhl.de/opus/volltexte/2015/5229/pdf/19.pdf).
 
-You will find most of side projects on my Github, [some](https://github.com/ngsankha/Panther) [of which](https://github.com/ngsankha/codejudge) have been useful to few people. I used to contribute to Mozilla Firefox, many of my patches were to SpiderMonkey - the JavaScript engine.
+You will find most of side projects on my Github, [handful](https://github.com/ngsankha/Panther) [of which](https://github.com/ngsankha/codejudge) have been useful to some people. I used to contribute to Mozilla Firefox, many of my patches were to SpiderMonkey - the JavaScript engine.
 
 <i class="about-icon fa fa-envelope"></i> **Email:** [ngsankha@gmail.com](mailto:ngsankha@gmail.com)<br>
 <i class="about-icon fa fa-twitter"></i> **Twitter:** [@ngsankha](https://twitter.com/ngsankha)<br>
