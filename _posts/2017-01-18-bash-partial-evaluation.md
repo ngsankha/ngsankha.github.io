@@ -29,7 +29,7 @@ This large bash script had a lot of weird things. It would read configuration fr
 
 $$prog: I_{static} \times I_{dynamic} \rightarrow O$$
 
-where $$I_{static}$$ is the static data that can is known ahead of time before the bash script is run. Thus we can have a partial evaluator that can transform $$\langle prog, I_{static} \rangle$$ into a new program $$prog*: I_{dynamic} \rightarrow O$$. This new bash script $$prog*$$ can run faster and be error free because the partial evaluator can raise errors and optimize during the "compile" phase.
+where $$I_{static}$$ is the static data that is known ahead of time before the bash script is run. Thus we can have a partial evaluator that can transform $$\langle prog, I_{static} \rangle$$ into a new program $$prog*: I_{dynamic} \rightarrow O$$. This new bash script $$prog*$$ can run faster and be error free because the partial evaluator can raise errors and optimize during the "compile" phase.
 
 Thus we wrote a new bash script generator in Ruby, that generates a specialized script for that user session on that device. These factors are known ahead of time before program execution and can be baked into the generated bash script. We took the dynamic nature of Ruby to create variables inside the Ruby environment corresponding to the bash variables using `Kernel.const_set`.
 
