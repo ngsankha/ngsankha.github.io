@@ -127,6 +127,14 @@ main {
 .full-half {
     width: 100%;
 }
+.pp {
+    width: 18rem;
+    height: 18rem;
+    float: right;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    clip-path: circle(9rem at center);
+}
 @media screen and (max-width: 48rem) {
     .site-header {
         display: inline;

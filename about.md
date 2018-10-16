@@ -4,6 +4,8 @@ title:     About
 permalink: /
 ---
 
+<img src="images/pp.jpeg" class="pp">
+
 Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](https://www.cs.umd.edu/~jfoster/). I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group. My research interests are broadly in the area of programming languages - dynamic languages, type systems and program verification.
 
 Previously, I spent a couple of years at [BrowserStack](https://www.browserstack.com) writing systems software for offering real mobile devices on the cloud and scalable distributed web service backends. Prior to that, I graduated with my Bachelors degree from Indian Institute of Technology Jodhpur. I worked with [Prof. Peter Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann/) for a summer during my undergrad on [Transparent Object Proxies for JavaScript](http://drops.dagstuhl.de/opus/volltexte/2015/5229/pdf/19.pdf).
