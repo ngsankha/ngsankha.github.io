@@ -7,7 +7,7 @@ body {
     color: $text-color;
 }
 p {
-    text-align: justify;
+    text-align: start;
 }
 a {
     color: $link-color;
@@ -67,5 +67,7 @@ code {
 }
 hr {
     border: none;
-    border-top: 2px solid $border-color;
+    height: 1px;
+    color: $border-color;
+    background-color: $border-color;
 }

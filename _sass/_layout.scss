@@ -20,6 +20,10 @@ main {
 }
 .about-icon {
     margin-right: 5px;
+    margin-left: 5px;
+}
+.pubs-subtext {
+    font-size: $small-font-size;
 }
 .site-header {
     display: table;
@@ -133,7 +137,6 @@ main {
     float: right;
     margin-left: 2rem;
     margin-bottom: 2rem;
-    clip-path: circle(9rem at center);
 }
 @media screen and (max-width: 48rem) {
     .site-header {
@@ -143,5 +146,14 @@ main {
             display: block;
             text-align: center;
         }
+    }
+}
+
+@media screen and (max-width: 36rem) {
+    .pp {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

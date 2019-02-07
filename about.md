@@ -6,12 +6,25 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](https://www.cs.umd.edu/~jfoster/). I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group. My research interests are broadly in the area of programming languages - dynamic languages, type systems and program verification.
+Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/). I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group.
 
-Previously, I spent a couple of years at [BrowserStack](https://www.browserstack.com) writing systems software for offering real mobile devices on the cloud and scalable distributed web service backends. Prior to that, I graduated with my Bachelors degree from Indian Institute of Technology Jodhpur. I worked with [Prof. Peter Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann/) for a summer during my undergrad on [Transparent Object Proxies for JavaScript](http://drops.dagstuhl.de/opus/volltexte/2015/5229/pdf/19.pdf).
+I am interested in programming languages and formal methods with a focus on foundational, yet practical, techniques that facilitate understanding programs, improve software reliability, and in general, help in building functionally correct software. Currently, I work on building expressive type systems and verification tools for Ruby programs and scaling them to work on large Ruby on Rails web applications.
 
-You will find most of side projects on my Github, a [handful](https://github.com/ngsankha/Panther) [of](https://github.com/ngsankha/numrs) [which](https://github.com/ngsankha/codejudge) have been useful to some people. I used to contribute to Mozilla Firefox, many of my patches were to SpiderMonkey - the JavaScript engine.
+In the past, I have worked at [BrowserStack](https://www.browserstack.com) where I helped build infrastructure to allow developers to test apps and websites at large scale. I also used to contribute to SpiderMonkey - Mozilla Firefox's JavaScript engine.
 
-<i class="about-icon fa fa-envelope"></i> **Email:** [ngsankha@gmail.com](mailto:ngsankha@gmail.com)<br>
-<i class="about-icon fa fa-twitter"></i> **Twitter:** [@ngsankha](https://twitter.com/ngsankha)<br>
-<i class="about-icon fa fa-github"></i> **Github:** [ngsankha](https://github.com/ngsankha)<br>
+---
+### Publications
+
+**Type-Level Computations for Ruby Libraries**.<br>
+Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, David Van Horn and Jeffrey S. Foster.<br>
+In review.
+
+[**Transparent Object Proxies for JavaScript**](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149).<br>
+Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Peter Thiemann.<br>
+[ECOOP 2015](https://2015.ecoop.org/).<br>
+<span class="pubs-subtext">[Paper (PDF)](/static/tproxy-ecoop15.pdf), [Video](https://www.youtube.com/watch?v=TOjKhi_VZBQ), [Project Homepage](http://proglang.informatik.uni-freiburg.de/proxy/), [Artifact](http://dx.doi.org/10.4230/DARTS.1.1.2), [Source Code](https://github.com/ngsankha/js-tproxy)</span>
+
+---
+
+<i class="about-icon fa fa-envelope"></i> **Email:** [sankha@cs.umd.edu](mailto:sankha@cs.umd.edu)<br>
+<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) | <i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
