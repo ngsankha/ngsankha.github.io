@@ -6,7 +6,7 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/). I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group.
+Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/) . I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group.
 
 I am interested in programming languages and formal methods with a focus on foundational, yet practical, techniques that facilitate understanding programs, improve software reliability, and in general, help in building functionally correct software. Currently, I work on building expressive type systems and verification tools for Ruby programs and scaling them to work on large Ruby on Rails web applications.
 
@@ -17,7 +17,7 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 
 **Type-Level Computations for Ruby Libraries**.<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, David Van Horn and Jeffrey S. Foster.<br>
-In review.
+[PLDI 2019](https://pldi19.sigplan.org/).
 
 [**Transparent Object Proxies for JavaScript**](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149).<br>
 Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Peter Thiemann.<br>
