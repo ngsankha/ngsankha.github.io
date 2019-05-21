@@ -18,7 +18,7 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 **Type-Level Computations for Ruby Libraries**.<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2019](https://pldi19.sigplan.org/).<br>
-<span class="pubs-subtext">[Preprint](https://arxiv.org/abs/1904.03521), [Source Code](https://github.com/plum-umd/rdl)</span>
+<span class="pubs-subtext">[Paper (PDF)](/static/comptypes-pldi19.pdf), [Tech Report](https://arxiv.org/abs/1904.03521), [Source Code](https://github.com/plum-umd/rdl)</span>
 
 [**Transparent Object Proxies for JavaScript**](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149).<br>
 Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Peter Thiemann.<br>
