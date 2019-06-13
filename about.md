@@ -15,7 +15,7 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
-**Type-Level Computations for Ruby Libraries**.<br>
+[**Type-Level Computations for Ruby Libraries**](https://dl.acm.org/citation.cfm?id=3314630).<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2019](https://pldi19.sigplan.org/).<br>
 <span class="pubs-subtext">[Paper (PDF)](/static/comptypes-pldi19.pdf), [Tech Report](https://arxiv.org/abs/1904.03521), [Source Code](https://github.com/plum-umd/rdl)</span>
