@@ -13,6 +13,15 @@ I am interested in programming languages and formal methods with a focus on foun
 In the past, I have worked at [BrowserStack](https://www.browserstack.com) where I helped build infrastructure to allow developers to test apps and websites at large scale. I also used to contribute to SpiderMonkey - Mozilla Firefox's JavaScript engine.
 
 ---
+### News
+
+<ul class="news">
+  <li><a href="https://rubygems.org/gems/rdl/versions/2.2.0">RDL 2.2.0</a> released with type-level computations<span>June 2019</span></li>
+  <li>I will be a research intern at <a href="https://synthetic-minds.com">Synthetic Minds</a> this summer<span>May 2019</span></li>
+  <li><a href="/static/comptypes-pldi19.pdf">Type-Level Computations for Ruby Libraries</a> to appear at <a href="https://pldi19.sigplan.org">PLDI 2019</a><span>April 2019</span></li>
+</ul>
+
+---
 ### Publications
 
 [**Type-Level Computations for Ruby Libraries**](https://dl.acm.org/citation.cfm?id=3314630).<br>
