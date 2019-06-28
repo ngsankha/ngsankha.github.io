@@ -6,7 +6,7 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/) . I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group.
+Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](http://www.cs.umd.edu/projects/PL/) group.
 
 I am interested in programming languages and formal methods with a focus on foundational, yet practical, techniques that facilitate understanding programs, improve software reliability, and in general, help in building functionally correct software. Currently, I work on building expressive type systems and verification tools for Ruby programs and scaling them to work on large Ruby on Rails web applications.
 
@@ -15,11 +15,17 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 ---
 ### News
 
-<ul class="news">
-  <li><a href="https://rubygems.org/gems/rdl/versions/2.2.0">RDL 2.2.0</a> released with type-level computations<span>June 2019</span></li>
-  <li>I will be a research intern at <a href="https://synthetic-minds.com">Synthetic Minds</a> this summer<span>May 2019</span></li>
-  <li><a href="/static/comptypes-pldi19.pdf">Type-Level Computations for Ruby Libraries</a> to appear at <a href="https://pldi19.sigplan.org">PLDI 2019</a><span>April 2019</span></li>
+<ul class="posts">
+{% for post in site.posts limit: 3 %}
+{% if post.news %}
+<li>{{post.headline | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d, %Y' }}</span></li>
+{% else %}
+<li>New post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span>{{ post.date | date: '%B %d, %Y' }}</span></li>
+{% endif %}
+{% endfor %}
 </ul>
+
+[[More ...](/blog/)]
 
 ---
 ### Publications

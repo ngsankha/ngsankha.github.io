@@ -88,25 +88,6 @@ main {
         }
     }
 }
-.news {
-    list-style: inside;
-    padding: 0;
-    > li {
-        padding-top: 0.2em;
-        padding-bottom: 0.2em;
-        position: relative;
-        padding-right: 120px;
-        span {
-            color: $meta-color;
-            float: right;
-            font-size: $small-font-size;
-            position: absolute;
-            right: 0px;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-    }
-}
 .post {
     margin-top: 3rem;
     position: relative;
