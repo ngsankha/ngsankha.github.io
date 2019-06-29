@@ -15,7 +15,7 @@ permalink: /blog/
     {% endif %}
 
     {% if post.news %}
-    <li>{{post.headline | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d' }}</span></li>
+    <li>{{post.content | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d' }}</span></li>
     {% else %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span>{{ post.date | date: '%B %d' }}</span></li>
     {% endif %}

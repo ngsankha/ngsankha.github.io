@@ -18,7 +18,7 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 <ul class="posts">
 {% for post in site.posts limit: 3 %}
 {% if post.news %}
-<li>{{post.headline | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d, %Y' }}</span></li>
+<li>{{post.content | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d, %Y' }}</span></li>
 {% else %}
 <li>New post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span>{{ post.date | date: '%B %d, %Y' }}</span></li>
 {% endif %}
