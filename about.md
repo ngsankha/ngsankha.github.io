@@ -33,12 +33,12 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 [**Type-Level Computations for Ruby Libraries**](https://dl.acm.org/citation.cfm?id=3314630).<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2019](https://pldi19.sigplan.org/).<br>
-<span class="pubs-subtext">[Paper (PDF)](/static/comptypes-pldi19.pdf), [Tech Report](https://arxiv.org/abs/1904.03521), [Source Code](https://github.com/plum-umd/rdl)</span>
+<span class="pubs-subtext">[Paper (PDF)](/static/comptypes-pldi19.pdf) / [Video](https://www.youtube.com/watch?v=cmK7TzvhEds) / [Extended Version](https://arxiv.org/abs/1904.03521) / [Source Code](https://github.com/tupl-tufts/rdl)</span>
 
 [**Transparent Object Proxies for JavaScript**](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149).<br>
 Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Peter Thiemann.<br>
 [ECOOP 2015](https://2015.ecoop.org/).<br>
-<span class="pubs-subtext">[Paper (PDF)](/static/tproxy-ecoop15.pdf), [Video](https://www.youtube.com/watch?v=TOjKhi_VZBQ), [Project Homepage](http://proglang.informatik.uni-freiburg.de/proxy/), [Artifact](http://dx.doi.org/10.4230/DARTS.1.1.2), [Source Code](https://github.com/ngsankha/js-tproxy)</span>
+<span class="pubs-subtext">[Paper (PDF)](/static/tproxy-ecoop15.pdf) / [Video](https://www.youtube.com/watch?v=TOjKhi_VZBQ) / [Project Homepage](http://proglang.informatik.uni-freiburg.de/proxy/) / [Artifact](http://dx.doi.org/10.4230/DARTS.1.1.2) / [Source Code](https://github.com/ngsankha/js-tproxy)</span>
 
 ---
 
