@@ -79,10 +79,12 @@ main {
             transform: translateY(-50%);
         }
         a {
+            color: $text-color;
             text-decoration: none;
+            border-bottom: 1px $color-lgray dashed;
         }
         a:hover {
-            border-bottom: 1px $link-color dashed;
+            border-bottom: 1px $color-black dashed;
         }
     }
 }
