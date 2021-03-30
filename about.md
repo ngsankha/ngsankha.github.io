@@ -30,6 +30,11 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
+[**RbSyn: Type- and Effect-Guided Program Synthesis**](https://arxiv.org/abs/2102.13183).<br>
+_Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
+[PLDI 2021](https://pldi21.sigplan.org/).<br>
+<span class="pubs-subtext">[Preprint](https://arxiv.org/abs/2102.13183) / [Source Code](https://github.com/ngsankha/rbsyn)</span>
+
 [**Type-Level Computations for Ruby Libraries**](https://dl.acm.org/citation.cfm?id=3314630).<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2019](https://pldi19.sigplan.org/).<br>
