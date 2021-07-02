@@ -6,11 +6,11 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](https://plum-umd.github.io/) group.
+Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](https://plum-umd.github.io/) group. I am interested in programming languages design, program analysis and synthesis.
 
-I am interested in programming languages and formal methods with a focus on foundational, yet practical, techniques that facilitate understanding programs, improve software reliability, and in general, help in building functionally correct software. Currently, I work on building expressive type systems and verification tools for Ruby programs and scaling them to work on large Ruby on Rails web applications.
+My research is focused on program synthesis that facilitate automatic construction of functionally correct software from lightweight formal specifications such as tests and types. My tool [RbSyn](https://github.com/ngsankha/rbsyn) demonstrates the approach by automatically synthesizing methods for Ruby on Rails apps.
 
-In the past, I have worked at [BrowserStack](https://www.browserstack.com) where I helped build infrastructure to allow developers to test apps and websites at large scale. I also used to contribute to SpiderMonkey - Mozilla Firefox's JavaScript engine.
+Previously, I used to work at [BrowserStack](https://www.browserstack.com) where I helped build large scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
 
 ---
 ### News
