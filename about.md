@@ -30,20 +30,35 @@ In the past, I have worked at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
-[**RbSyn: Type- and Effect-Guided Program Synthesis**](https://arxiv.org/abs/2102.13183).<br>
+[**RbSyn: Type- and Effect-Guided Program Synthesis**](/static/rbsyn-pldi21.pdf).<br>
 _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2021](https://pldi21.sigplan.org/).<br>
-<span class="pubs-subtext">[Preprint](https://arxiv.org/abs/2102.13183) / [Source Code](https://github.com/ngsankha/rbsyn)</span>
+<span class="pubs-subtext">
+[ACM](https://dl.acm.org/doi/abs/10.1145/3453483.3454048) /
+[Extended Version](https://arxiv.org/abs/2102.13183) /
+[Source Code](https://github.com/ngsankha/rbsyn)
+</span>
 
-[**Type-Level Computations for Ruby Libraries**](https://dl.acm.org/citation.cfm?id=3314630).<br>
+[**Type-Level Computations for Ruby Libraries**](/static/comptypes-pldi19.pdf).<br>
 Milod Kazerounian, _Sankha Narayan Guria_, Niki Vazou, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2019](https://pldi19.sigplan.org/).<br>
-<span class="pubs-subtext">[Paper (PDF)](/static/comptypes-pldi19.pdf) / [Video](https://www.youtube.com/watch?v=cmK7TzvhEds) / [Extended Version](https://arxiv.org/abs/1904.03521) / [Source Code](https://github.com/tupl-tufts/rdl)</span>
+<span class="pubs-subtext">
+[ACM](https://dl.acm.org/doi/10.1145/3314221.3314630) /
+[Video](https://www.youtube.com/watch?v=cmK7TzvhEds) /
+[Extended Version](https://arxiv.org/abs/1904.03521) /
+[Source Code](https://github.com/tupl-tufts/rdl)
+</span>
 
-[**Transparent Object Proxies for JavaScript**](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149).<br>
+[**Transparent Object Proxies for JavaScript**](/static/tproxy-ecoop15.pdf).<br>
 Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Peter Thiemann.<br>
 [ECOOP 2015](https://2015.ecoop.org/).<br>
-<span class="pubs-subtext">[Paper (PDF)](/static/tproxy-ecoop15.pdf) / [Video](https://www.youtube.com/watch?v=TOjKhi_VZBQ) / [Project Homepage](http://proglang.informatik.uni-freiburg.de/proxy/) / [Artifact](http://dx.doi.org/10.4230/DARTS.1.1.2) / [Source Code](https://github.com/ngsankha/js-tproxy)</span>
+<span class="pubs-subtext">
+[LIPICS](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.149) /
+[Video](https://www.youtube.com/watch?v=TOjKhi_VZBQ) /
+[Project Homepage](http://proglang.informatik.uni-freiburg.de/proxy/) /
+[Artifact](http://dx.doi.org/10.4230/DARTS.1.1.2) /
+[Source Code](https://github.com/ngsankha/js-tproxy)
+</span>
 
 ---
 
