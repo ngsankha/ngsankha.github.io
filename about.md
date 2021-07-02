@@ -25,7 +25,7 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 {% endfor %}
 </ul>
 
-[[More ...](/blog/)]
+[[More ...](/news/)]
 
 ---
 ### Publications
