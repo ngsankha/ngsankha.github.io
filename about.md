@@ -30,6 +30,13 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
+[**ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification**](/static/anosy-pldi22.pdf).<br>
+_Sankha Narayan Guria_, Niki Vazou, Marco Guarnieri and James Parker.<br>
+[PLDI 2022](https://pldi22.sigplan.org/).<br>
+<span class="pubs-subtext">
+[Preprint](https://arxiv.org/abs/2203.12069)
+</span>
+
 [**RbSyn: Type- and Effect-Guided Program Synthesis**](/static/rbsyn-pldi21.pdf).<br>
 _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2021](https://pldi21.sigplan.org/).<br>
