@@ -34,7 +34,9 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 _Sankha Narayan Guria_, Niki Vazou, Marco Guarnieri and James Parker.<br>
 [PLDI 2022](https://pldi22.sigplan.org/).<br>
 <span class="pubs-subtext">
-[Preprint](https://arxiv.org/abs/2203.12069)
+[ACM](https://dl.acm.org/doi/abs/10.1145/3519939.3523725) /
+[Preprint](https://arxiv.org/abs/2203.12069) /
+[Source Code](https://github.com/ngsankha/anosy)
 </span>
 
 [**RbSyn: Type- and Effect-Guided Program Synthesis**](/static/rbsyn-pldi21.pdf).<br>
@@ -43,7 +45,8 @@ _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 <span class="pubs-subtext">
 [ACM](https://dl.acm.org/doi/abs/10.1145/3453483.3454048) /
 [Extended Version](https://arxiv.org/abs/2102.13183) /
-[Source Code](https://github.com/ngsankha/rbsyn)
+[Source Code](https://github.com/ngsankha/rbsyn) /
+[Talk](https://www.pldi21.org/poster_pldi.124.html)
 </span>
 
 [**Type-Level Computations for Ruby Libraries**](/static/comptypes-pldi19.pdf).<br>
