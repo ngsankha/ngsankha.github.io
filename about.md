@@ -16,7 +16,7 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 ### News
 
 <ul class="posts">
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts limit: 5 %}
 {% if post.news %}
 <li>{{post.content | markdownify | remove: "<p>" | remove: "</p>"}}<span>{{ post.date | date: '%B %d, %Y' }}</span></li>
 {% else %}
