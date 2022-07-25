@@ -36,7 +36,8 @@ _Sankha Narayan Guria_, Niki Vazou, Marco Guarnieri and James Parker.<br>
 <span class="pubs-subtext">
 [ACM](https://dl.acm.org/doi/abs/10.1145/3519939.3523725) /
 [Preprint](https://arxiv.org/abs/2203.12069) /
-[Source Code](https://github.com/ngsankha/anosy)
+[Source Code](https://github.com/ngsankha/anosy) /
+[Talk](https://www.youtube.com/watch?v=Xwo3rTcl0Lo)
 </span>
 
 [**RbSyn: Type- and Effect-Guided Program Synthesis**](/static/rbsyn-pldi21.pdf).<br>
