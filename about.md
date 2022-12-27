@@ -6,11 +6,15 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](https://plum-umd.github.io/) group. I am interested in programming languages design, program analysis and synthesis.
+Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](https://plum-umd.github.io/) group.
 
-My research is focused on program synthesis that facilitate automatic construction of functionally correct software from lightweight formal specifications such as tests and types. My tool [RbSyn](https://github.com/ngsankha/rbsyn) demonstrates the approach by automatically synthesizing methods for Ruby on Rails apps.
+I am interested in tools that help programmers build correct and efficient software. My research specifically focuses on program synthesis to facilitate automatic construction of functionally correct software from specifications like tests and types. For instance, my tool [RbSyn](https://github.com/ngsankha/rbsyn) demonstrates the approach by automatically synthesizing methods for Ruby on Rails apps.
+
+<!-- synthesis, i.e., automation that writes code, and design foundational approaches to programming language abstractions, program analysis and synthesis. -->
 
 Previously, I used to work at [BrowserStack](https://www.browserstack.com) where I helped build large scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
+
+**I am on the job market. Please reach out to me if you think I will be a good fit. Here are my [research](/static/research.pdf), [teaching](/static/teaching.pdf), and [diversity](/static/diversity.pdf) statements.**
 
 ---
 ### News
