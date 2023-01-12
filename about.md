@@ -15,7 +15,7 @@ I am interested in tools that help programmers build correct and efficient softw
 Previously, I used to work at [BrowserStack](https://www.browserstack.com) where I helped build large scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
 
 <i class="fa fa-star"></i>
-**I am on the job market. My [CV](/static/sankha_resume.pdf), [research](/static/research.pdf), [teaching](/static/teaching.pdf), and [diversity](/static/diversity.pdf) statements are available. Please [reach out](mailto:sankha@cs.umd.edu) to me if you think I will be a good fit.**
+**I am on the job market this year. Here is my [CV](/static/sankha_resume.pdf), [research statement](/static/research.pdf), [teaching statement](/static/teaching.pdf), and [diversity statement](/static/diversity.pdf). Please [reach out](mailto:sankha@cs.umd.edu) to me if you think I will be a good fit.**
 
 ---
 ### News
