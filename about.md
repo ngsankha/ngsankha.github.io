@@ -35,6 +35,13 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
+[**Absynthe: Abstract Interpretation-Guided Synthesis**](https://www.cs.umd.edu/~sankha/drafts/absynthe-pldi23.pdf).<br>
+_Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
+In Submission.<br>
+<span class="pubs-subtext">
+[Preprint](https://www.cs.umd.edu/~sankha/drafts/absynthe-pldi23.pdf)
+</span>
+
 [**ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification**](/static/anosy-pldi22.pdf).<br>
 _Sankha Narayan Guria_, Niki Vazou, Marco Guarnieri and James Parker.<br>
 [PLDI 2022](https://pldi22.sigplan.org/).<br>
