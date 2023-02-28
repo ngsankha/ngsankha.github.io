@@ -35,11 +35,11 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 ---
 ### Publications
 
-[**Absynthe: Abstract Interpretation-Guided Synthesis**](https://www.cs.umd.edu/~sankha/drafts/absynthe-pldi23.pdf).<br>
+[**Absynthe: Abstract Interpretation-Guided Synthesis**](https://arxiv.org/pdf/2302.13145.pdf).<br>
 _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2023](https://pldi23.sigplan.org/) (Conditionally accepted).<br>
 <span class="pubs-subtext">
-[Preprint](https://www.cs.umd.edu/~sankha/drafts/absynthe-pldi23.pdf)
+[Preprint](https://arxiv.org/abs/2302.13145)
 </span>
 
 [**ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification**](/static/anosy-pldi22.pdf).<br>
