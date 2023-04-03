@@ -37,7 +37,7 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 
 [**Absynthe: Abstract Interpretation-Guided Synthesis**](https://arxiv.org/pdf/2302.13145.pdf).<br>
 _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
-[PLDI 2023](https://pldi23.sigplan.org/) (Conditionally accepted).<br>
+[PLDI 2023](https://pldi23.sigplan.org/) (To appear).<br>
 <span class="pubs-subtext">
 [Preprint](https://arxiv.org/abs/2302.13145)
 </span>
