@@ -14,6 +14,9 @@ I am interested in tools that help programmers build correct and efficient softw
 
 Previously, I used to work at [BrowserStack](https://www.browserstack.com) where I helped build large scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
 
+<i class="fa fa-star"></i>
+**I am joining the [University of Kansas EECS Department](https://eecs.ku.edu/) as an Assistant Professor in Fall 2023. If you are interested in working with me as a PhD student, feel free to send me an email!**
+
 ---
 ### News
 
