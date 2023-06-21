@@ -39,7 +39,9 @@ Previously, I used to work at [BrowserStack](https://www.browserstack.com) where
 _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 [PLDI 2023](https://pldi23.sigplan.org/).<br>
 <span class="pubs-subtext">
-[Preprint](https://arxiv.org/abs/2302.13145)
+[ACM](https://dl.acm.org/doi/10.1145/3591285) /
+[Preprint](https://arxiv.org/abs/2302.13145) /
+[Source Code](https://github.com/ngsankha/absynthe)
 </span>
 
 [**ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification**](/static/anosy-pldi22.pdf).<br>
