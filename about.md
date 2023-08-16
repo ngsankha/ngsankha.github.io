@@ -6,16 +6,25 @@ permalink: /
 
 <img src="images/pp.jpeg" class="pp">
 
-Hi! I'm Sankha. I am a Ph.D. student in [Computer Science](https://cs.umd.edu) at the [University of Maryland](https://umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I work with the folks at the [PLUM](https://plum-umd.github.io/) group.
+**Assistant Professor, [The University of Kansas](https://ku.edu)**
 
-I am interested in tools that help programmers build correct and efficient software. My research specifically focuses on program synthesis to facilitate automatic construction of functionally correct software from specifications like tests and types. For instance, my tool [RbSyn](https://github.com/ngsankha/rbsyn) demonstrates the approach by automatically synthesizing methods for Ruby on Rails apps.
+<i class="about-icon fa fa-map-pin"></i> **[Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/)**<br>
+<i class="fa fa-fw"></i> 2034 Eaton Hall
 
-<!-- synthesis, i.e., automation that writes code, and design foundational approaches to programming language abstractions, program analysis and synthesis. -->
+<i class="about-icon fa fa-map-pin"></i> **[Institute for Information Sciences](https://i2s-research.ku.edu/)**<br>
+<i class="fa fa-fw"></i> 137 Nichols Hall
 
-Previously, I used to work at [BrowserStack](https://www.browserstack.com) where I helped build large scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
+<i class="about-icon fa fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
+<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) | <i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
 
-<i class="fa fa-star"></i>
-**I am joining the [University of Kansas EECS Department](https://eecs.ku.edu/) as an Assistant Professor in Fall 2023. If you are interested in working with me as a PhD student, feel free to send me an email!**
+---
+
+I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software.
+
+I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I have some industry experience working at [Meta](https://meta.com) on the Hack programming language and at [BrowserStack](https://www.browserstack.com) where I helped build cloud-scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
+
+<i class="about-icon fa fa-star"></i>
+**I am looking for students interested in programming languages research. Please send me an email if you are interested in working with me.**
 
 ---
 ### News
@@ -85,7 +94,3 @@ Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Pete
 [Source Code](https://github.com/ngsankha/js-tproxy)
 </span>
 
----
-
-<i class="about-icon fa fa-envelope"></i> **Email:** [sankha@cs.umd.edu](mailto:sankha@cs.umd.edu)<br>
-<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) | <i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
