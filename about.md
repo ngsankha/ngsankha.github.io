@@ -21,10 +21,10 @@ permalink: /
 
 I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software.
 
-I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I have some industry experience working at [Meta](https://meta.com) on the Hack programming language and at [BrowserStack](https://www.browserstack.com) where I helped build cloud-scale testing infrastructure for apps and websites. I also used to contribute to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
+I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I have some industry experience working at [Meta](https://meta.com) on the Hack programming language and at [BrowserStack](https://www.browserstack.com) where I helped build cloud-scale testing infrastructure for apps and websites. Previously, I have contributed to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
 
 <i class="about-icon fa fa-star"></i>
-**I am looking for students interested in programming languages research. Please send me an email if you are interested in working with me.**
+**I am looking for students interested in programming languages research. Please send me an email if you want to work with me.**
 
 ---
 ### News
