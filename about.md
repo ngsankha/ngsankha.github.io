@@ -94,3 +94,8 @@ Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Pete
 [Source Code](https://github.com/ngsankha/js-tproxy)
 </span>
 
+---
+### Teaching
+
+**Introduction to Program Synthesis**<br>
+[Fall 2023](/eecs700)
