@@ -53,6 +53,13 @@ _Sankha Narayan Guria_, Jeffrey S. Foster and David Van Horn.<br>
 [Source Code](https://github.com/ngsankha/absynthe)
 </span>
 
+[**Program Synthesis with Lightweight Abstractions**](/static/phd-thesis.pdf).<br>
+_Sankha Narayan Guria_.<br>
+PhD Dissertation.<br>
+<span class="pubs-subtext">
+[DRUM](https://drum.lib.umd.edu/items/608c0922-9e90-4064-84dd-60e500ec9c6a)
+</span>
+
 [**ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification**](/static/anosy-pldi22.pdf).<br>
 _Sankha Narayan Guria_, Niki Vazou, Marco Guarnieri and James Parker.<br>
 [PLDI 2022](https://pldi22.sigplan.org/).<br>
