@@ -4,7 +4,7 @@ title:     About
 permalink: /
 ---
 
-<img src="images/pp2.jpg" class="pp">
+<img src="images/pp.jpeg" class="pp">
 
 **Assistant Professor, [The University of Kansas](https://ku.edu)**
 
