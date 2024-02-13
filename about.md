@@ -4,7 +4,7 @@ title:     About
 permalink: /
 ---
 
-<img src="images/pp.jpeg" class="pp">
+<img src="images/pp2.jpg" class="pp">
 
 **Assistant Professor, [The University of Kansas](https://ku.edu)**
 
@@ -15,7 +15,8 @@ permalink: /
 <i class="fa fa-fw"></i> 137 Nichols Hall
 
 <i class="about-icon fa fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
-<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) | <i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
+<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) /
+<i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
 
 ---
 
@@ -104,5 +105,8 @@ Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Pete
 ---
 ### Teaching
 
-**Introduction to Program Synthesis**<br>
+**EECS 662: Programming Languages**<br>
+[Spring 2024](/eecs662)
+
+**EECS 700: Introduction to Program Synthesis**<br>
 [Fall 2023](/eecs700)
