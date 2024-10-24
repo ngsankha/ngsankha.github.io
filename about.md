@@ -20,12 +20,11 @@ permalink: /
 
 ---
 
-I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software.
+I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software. I direct the [KU Programming Systems Group](https://ku-progsys.github.io).
 
 I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I have some industry experience working at [Meta](https://meta.com) on the Hack programming language and at [BrowserStack](https://www.browserstack.com) where I helped build cloud-scale testing infrastructure for apps and websites. Previously, I have contributed to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
 
-<i class="about-icon fa fa-star"></i>
-**I am looking for students interested in programming languages research. Please send me an email if you want to work with me.**
+> <i class="about-icon fa fa-star"></i> **I am hiring graduate and undergraduate students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
 
 ---
 ### News
@@ -105,8 +104,8 @@ Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Pete
 ---
 ### Teaching
 
+**EECS 700: Introduction to Program Synthesis**<br>
+[Fall 2024](/eecs700) / Fall 2023
+
 **EECS 662: Programming Languages**<br>
 [Spring 2024](/eecs662)
-
-**EECS 700: Introduction to Program Synthesis**<br>
-[Fall 2023](/eecs700)
