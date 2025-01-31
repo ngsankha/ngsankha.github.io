@@ -108,4 +108,4 @@ Matthias Keil, _Sankha Narayan Guria_, Andreas Schlegel, Manuel Geffken and Pete
 [Fall 2024](/eecs700) / Fall 2023
 
 **EECS 662: Programming Languages**<br>
-[Spring 2024](/eecs662)
+[Spring 2025](https://ku-progsys.github.io/eecs662) / Spring 2024
