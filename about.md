@@ -15,7 +15,7 @@ permalink: /
 <i class="fa fa-fw"></i> 137 Nichols Hall
 
 <i class="about-icon fa-solid fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
-<i class="about-icon fa-brands fa-x-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) /
+<i class="about-icon fa-brands fa-x-twitter"></i> [@ngsankha](https://x.com/ngsankha) /
 <i class="about-icon fa-brands fa-bluesky"></i> [@sankhs.com](https://bsky.app/profile/sankhs.com) /
 <i class="about-icon fa-brands fa-github"></i> [ngsankha](https://github.com/ngsankha)<br><br>
 
