@@ -8,7 +8,7 @@ permalink: /
 
 **Assistant Professor, [The University of Kansas](https://ku.edu)**
 
-<i class="about-icon fa fa-map-pin"></i> **[Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/)**<br>
+<i class="about-icon fa fa-map-pin"></i> **[Electrical Engineering and Computer Science Department](https://eecs.ku.edu/)**<br>
 <i class="fa fa-fw"></i> 2034 Eaton Hall
 
 <i class="about-icon fa fa-map-pin"></i> **[Institute for Information Sciences](https://i2s-research.ku.edu/)**<br>
@@ -16,15 +16,15 @@ permalink: /
 
 <i class="about-icon fa fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
 <i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) /
-<i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br>
+<i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br><br>
 
----
+<!-- --- -->
 
-I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software. I direct the [KU Programming Systems Group](https://ku-progsys.github.io).
+I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software. I direct the [KU Programming Systems Group](https://ku-progsys.github.io/).
 
-I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I have some industry experience working at [Meta](https://meta.com) on the Hack programming language and at [BrowserStack](https://www.browserstack.com) where I helped build cloud-scale testing infrastructure for apps and websites. Previously, I have contributed to [SpiderMonkey](https://spidermonkey.dev/) - Mozilla Firefox's JavaScript engine.
+I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). My background includes significant industry experience, from contributing to the [SpiderMonkey](https://spidermonkey.dev/) JavaScript engine at Mozilla Firefox to building cloud-scale testing infrastructure for apps and websites at [BrowserStack](https://www.browserstack.com). I also gained valuable insights while working on the Hack programming language at [Meta](https://meta.com).
 
-> <i class="about-icon fa fa-star"></i> **I am hiring graduate and undergraduate students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
+> <i class="about-icon fa fa-star"></i> **I am hiring Ph.D. students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
 
 ---
 ### News
