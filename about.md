@@ -8,15 +8,16 @@ permalink: /
 
 **Assistant Professor, [The University of Kansas](https://ku.edu)**
 
-<i class="about-icon fa fa-map-pin"></i> **[Electrical Engineering and Computer Science Department](https://eecs.ku.edu/)**<br>
+<i class="about-icon fa-solid fa-location-dot"></i> **[Electrical Engineering and Computer Science Department](https://eecs.ku.edu/)**<br>
 <i class="fa fa-fw"></i> 2034 Eaton Hall
 
-<i class="about-icon fa fa-map-pin"></i> **[Institute for Information Sciences](https://i2s-research.ku.edu/)**<br>
+<i class="about-icon fa-solid fa-location-dot"></i> **[Institute for Information Sciences](https://i2s-research.ku.edu/)**<br>
 <i class="fa fa-fw"></i> 137 Nichols Hall
 
-<i class="about-icon fa fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
-<i class="about-icon fa fa-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) /
-<i class="about-icon fa fa-github"></i> [ngsankha](https://github.com/ngsankha)<br><br>
+<i class="about-icon fa-solid fa-envelope"></i> [sankha@ku.edu](mailto:sankha@ku.edu) or [me@sankhs.com](mailto:me@sankhs.com)<br>
+<i class="about-icon fa-brands fa-x-twitter"></i> [@ngsankha](https://twitter.com/ngsankha) /
+<i class="about-icon fa-brands fa-bluesky"></i> [@sankhs.com](https://bsky.app/profile/sankhs.com) /
+<i class="about-icon fa-brands fa-github"></i> [ngsankha](https://github.com/ngsankha)<br><br>
 
 <!-- --- -->
 
@@ -24,7 +25,7 @@ I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [Th
 
 I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). My background includes significant industry experience, from contributing to the [SpiderMonkey](https://spidermonkey.dev/) JavaScript engine at Mozilla Firefox to building cloud-scale testing infrastructure for apps and websites at [BrowserStack](https://www.browserstack.com). I also gained valuable insights while working on the Hack programming language at [Meta](https://meta.com).
 
-> <i class="about-icon fa fa-star"></i> **I am hiring Ph.D. students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
+> <i class="about-icon fa-solid fa-star"></i> **I am hiring Ph.D. students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
 
 ---
 ### News
