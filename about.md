@@ -21,11 +21,28 @@ permalink: /
 
 <!-- --- -->
 
-I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software. I direct the [KU Programming Systems Group](https://ku-progsys.github.io/).
+I am an Assistant Professor in the [EECS Department](https://eecs.ku.edu) at [The University of Kansas](https://ku.edu). I am interested in practical tools that help programmers build correct and efficient software. 
+<!-- My research specifically uses programming language abstractions to design program analysis and synthesis techniques that facilitate automatic construction of functionally correct software.-->
+I direct the [KU Programming Systems Group](https://ku-progsys.github.io/).
 
-I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). My background includes significant industry experience, from contributing to the [SpiderMonkey](https://spidermonkey.dev/) JavaScript engine at Mozilla Firefox to building cloud-scale testing infrastructure for apps and websites at [BrowserStack](https://www.browserstack.com). I also gained valuable insights while working on the Hack programming language at [Meta](https://meta.com).
+I got my PhD from the [University of Maryland](https://cs.umd.edu), advised by [Prof. Jeff Foster](http://www.cs.tufts.edu/~jfoster/) and [Prof. David Van Horn](http://www.cs.umd.edu/~dvanhorn/). I did my undergrad from from [IIT Jodhpur](https://iitj.ac.in/) in India.
 
+<!--
 > <i class="about-icon fa-solid fa-star"></i> **I am hiring Ph.D. students for our group!** [Here are some reasons](https://ku-progsys.github.io/why-ku/) why our group and KU might be a great fit. Please [send me an email](mailto:sankha@ku.edu) and apply to the [graduate program in EECS](https://eecs.ku.edu/graduate-programs) at KU if you want to join us. If you are already at KU, shoot me an email to set up a meeting.
+-->
+
+---
+
+### Prior Work
+
+* **Meta:** Worked on effect encapsulation for the Hack language, and [shipped it production](https://github.com/facebook/hhvm/commits/master?author=ngsankha). It's fun to design languages when you have access to the biggest users of the language!
+
+* **Ruby Type Systems:** Part of the [RDL](https://github.com/tupl-tufts/rdl) team, where we built the research prototype of Ruby type systems. Many of our ideas have made it into [Ruby 3](https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/#static-analysis) and the [Sorbet type checker](https://sorbet.org) (used by Stripe, GitHub, and Shopify)!
+
+* **BrowserStack:** As one of the early engineers, I helped build the Automate and App Live products among other things. Here is a [blog post](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/) describing an realtime messaging service I built (think Pusher but works in $70/month) with a [note from the co-founder](/static/bstack-pusher.pdf) after I started my PhD.
+
+* **Mozilla Firefox:** I used to contribute to Firefox, mostly to [SpiderMonkey](https://spidermonkey.dev/), the JavaScript engine. You can see my [commits](https://github.com/mozilla-firefox/firefox/commits/main/?author=ngsankha) and find my name on [`about:credits`](https://mozilla.org/credits).
+
 
 ---
 ### News
